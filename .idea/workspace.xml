@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1259ab82-7731-4f5c-9306-70f7d3a98407" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ZcLT84t22i7j7FeGXgaU4ppGnd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RunManager" selected="Python.3week_homework">
+    <configuration name="3week_homework" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3week_homework.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="example" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/example.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.3week_homework" />
+        <item itemvalue="Python.example" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1259ab82-7731-4f5c-9306-70f7d3a98407" name="Default Changelist" comment="" />
+      <created>1585133440355</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585133440355</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="437" y="82" key="#3week_homework" timestamp="1585466417359">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="437" y="82" key="#3week_homework/0.23.1440.877@0.23.1440.877" timestamp="1585466417359" />
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585135390063">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1585135390063" />
+    <state width="1419" height="294" key="GridCell.Tab.0.bottom" timestamp="1585465683269">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1419" height="294" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1585387435611" />
+    <state width="1419" height="294" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1585465683269" />
+    <state width="1419" height="294" key="GridCell.Tab.0.center" timestamp="1585465683268">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1419" height="294" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1585387435610" />
+    <state width="1419" height="294" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1585465683268" />
+    <state width="1419" height="294" key="GridCell.Tab.0.left" timestamp="1585465683268">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1419" height="294" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1585387435608" />
+    <state width="1419" height="294" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1585465683268" />
+    <state width="1419" height="294" key="GridCell.Tab.0.right" timestamp="1585465683268">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1419" height="294" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1585387435611" />
+    <state width="1419" height="294" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1585465683268" />
+    <state width="1419" height="303" key="GridCell.Tab.1.bottom" timestamp="1585465683251">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1419" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1585140834769" />
+    <state width="1419" height="303" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1585465683251" />
+    <state width="1419" height="303" key="GridCell.Tab.1.center" timestamp="1585465683250">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1419" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1585140834768" />
+    <state width="1419" height="303" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1585465683250" />
+    <state width="1419" height="303" key="GridCell.Tab.1.left" timestamp="1585465683249">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1419" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1585140834767" />
+    <state width="1419" height="303" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1585465683249" />
+    <state width="1419" height="303" key="GridCell.Tab.1.right" timestamp="1585465683250">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1419" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1585140834768" />
+    <state width="1419" height="303" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1585465683250" />
+    <state x="229" y="110" key="SettingsEditor" timestamp="1585466432697">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="229" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1585138114213" />
+    <state x="229" y="110" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1585466432697" />
+    <state x="413" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1585465818933">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="413" y="294" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1585465818933" />
+    <state x="385" y="112" width="670" height="676" key="search.everywhere.popup" timestamp="1585316580840">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="112" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1585316580840" />
+  </component>
+</project>
